@@ -1,0 +1,23 @@
+#weather {
+    font-family: "Edwardian Script";
+}
+
+#quote {
+    float: left;
+    font-family: "Edwardian Script";
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+#image {
+    box-sizing: content-box;
+    align-items: center;
+}
+
+.hidden {
+    display: none;
+}
